@@ -1,4 +1,4 @@
-# regul-piscine
+# regul-piscine avec Arduino UNO
 Régulation PH &amp; ORP pour piscine
 
 Le but est de réaliser une régulation PH et ORP, d’automatiser le temps de filtration en fonction de la température de l’eau et du volume d’eau, de contrôler la pression dans le circuit hydraulique  et d’ajouter un hivernage actif  en fonction de la température extérieure. Le tout affiché sur un LCD de 4 lignes de 20 caractères dans le local technique, et également visible sur internet.
